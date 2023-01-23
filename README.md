@@ -1,17 +1,17 @@
-## Running React on Repl.it
+# Chatit
+This is a chatting application made on react js. Check it out at [replit](https://Chatit.divu050704.repl.co)
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+# NPM Packages used 
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+["@lottiefiles/lottie-player": "^1.6.3" <br />](https://www.npmjs.com/package/@lottiefiles/lottie-player)
+"@material-ui/core": "^4.12.4" <br />
+"@types/react": "^17.0.53" <br />
+"@types/react-dom": "^18.0.10" <br />
+"@vitejs/plugin-legacy": "^1.8.1" <br />
+"@vitejs/plugin-react": "^3.0.1" <br /> 
+"@vitejs/plugin-react-refresh": "^1.3.6" <br />
+"boxicons": "^2.1.2" <br />
+"react": "^18.2.0" <br />
+"react-dom": "^18.2.0" <br />
+"reactjs-popup": "^2.0.5" <br />
+"vite": "^4.0.4"

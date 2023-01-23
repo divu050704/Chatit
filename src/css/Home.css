@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    margin :0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.home--navbar{
+  height: 4vh;
+  display: flex;
+  justify-content: space-between;
+  
+  background: linear-gradient(55deg, rgba(70,131,255,1) 41%, rgba(50, 129, 255,1) 57%);
+  padding: 1rem;
+}
+.home--navbar-content1{
+  display:flex;
+  align-items: center;
+}
+.home--navbar-content2{
+  display: flex;
+  align-items: center;
+
+}
+.home--icons{
+
+  margin-left: 1rem;
+  padding: 0.5rem;
+  border-radius: 98%;
+}
+.home--icons:hover{
+  background-color: rgba(255, 255, 255,0.2);
+  cursor: pointer;
+
+}
+.fetching{
+  height: 90vh;
+  width: 95vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.notFound{
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.notFound--content{
+  text-align: center;
+  color:rgba(50, 129, 255,1);
+}
+.home--newMessage{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-right: 2rem;
+  margin-bottom: 3rem;
+  padding: 1rem;
+  background-color: rgba(50, 129, 255,1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10rem;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
+.home--chats{
+  display: flex;
+  padding: 1rem;
+  cursor: pointer;
+}
+.home--chats:hover{
+  background-color: whitesmoke;
+  transform: background-color 0.2s ;
+}

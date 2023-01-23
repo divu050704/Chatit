@@ -30,4 +30,6 @@ npm i --force
 
 - Add an option for emojis :slightly_smiling_face:
 - End-to-End Encryption :closed_lock_with_key:
-- Support for images and videos :framed_picture:	
+- Support for images and videos :framed_picture: :film_projector:
+- Option for read messages :white_check_mark:
+- Notification for unread messages :green_circle:

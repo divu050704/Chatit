@@ -18,7 +18,7 @@ This is a chatting application made on react js. Check it out at [replit](https:
 
 # Backend
 
-An express server is running with MongoDB as RDBMS (Relational Database Management System) you can check it out [here](https://google.com)
+An express server is running with MongoDB as RDBMS (Relational Database Management System) you can check it out [here](https://github.com/divu050704/Chatit-backend)
 
 # Installing
 
